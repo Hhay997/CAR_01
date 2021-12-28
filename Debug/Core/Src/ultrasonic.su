@@ -1,0 +1,4 @@
+ultrasonic.c:13:6:Ultrasonic1	72	static
+ultrasonic.c:56:6:Ultrasonic2	72	static
+ultrasonic.c:94:6:Ultrasonic3	72	static
+ultrasonic.c:132:6:Ultrasonic4	72	static

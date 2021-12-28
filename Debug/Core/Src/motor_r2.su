@@ -1,0 +1,4 @@
+motor_r2.c:19:6:go_or_back_R_2	16	static
+motor_r2.c:36:6:Motor_R_2	16	static
+motor_r2.c:56:7:contol_R_2	48	static
+motor_r2.c:102:8:PID_Calc_R_2	16	static

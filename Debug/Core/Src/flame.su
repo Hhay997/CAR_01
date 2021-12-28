@@ -1,0 +1,3 @@
+flame.c:4:6:FLAME_A_PUT	40	static
+flame.c:64:6:FLAME_B_PUT	40	static
+flame.c:122:6:FLAME_C_PUT	40	static
